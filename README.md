@@ -4,7 +4,7 @@
 
 A basic geolocation library for node.js.
 
-Uses [freegeoip.net](http://freegeoip.net) and the [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro)
+Uses [freegeoip.app](https://freegeoip.app) and the [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro)
 
 ## Installation
 
